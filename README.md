@@ -51,4 +51,5 @@ I’m currently working in  **SYSTEMS LIMITED** as a **Software Developer**, wor
 
 ### ⚡ Fun Fact
 * Currently building a GraphQL book management system!
-* I believe clean code is like a good book—easy to read and hard to put down.
+* I speak fluent JavaScript, but sometimes my code speaks in [object Object].
+* I love learning new things.
